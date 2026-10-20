@@ -5,5 +5,5 @@
  * di antara tanda petik di bawah. Ini SATU-SATUNYA fail yang perlu diubah.
  */
 window.SC_CONFIG = {
-  apiUrl: 'TAMPAL_URL_WEB_APP_DI_SINI'
+  apiUrl: 'https://script.google.com/macros/s/AKfycbxeR6qpnW2xW4NHgfDoleS08nnmoZpVQCppMI4_i_FuxqN-lOwjnzIExUJpO6kSjZJCEA/exec'
 };
